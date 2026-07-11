@@ -1,0 +1,105 @@
+Match_ID,Date,Stage,Home Team,Away Team,Home Goals,Away Goals,Home Penalties,Away Penalties,Score,Stadium,Attendance
+1,11-06-2026,Group Stage,Mexico,South Africa,2,0,,,2-0,Mexico City Stadium (Estadio Azteca),80824
+2,11-06-2026,Group Stage,South Korea,Czechia,2,1,,,2-1,Guadalajara Stadium (Estadio Akron),44985
+3,12-06-2026,Group Stage,Canada,Bosnia and Herzegovina,1,1,,,1-1,Toronto Stadium (BMO Field),43002
+4,12-06-2026,Group Stage,USA,Paraguay,4,1,,,4-1,Los Angeles Stadium (SoFi Stadium),70492
+5,13-06-2026,Group Stage,Qatar,Switzerland,1,1,,,1-1,Boston Stadium (Gillette Stadium),67966
+6,13-06-2026,Group Stage,Brazil,Morocco,1,1,,,1-1,New York New Jersey Stadium (MetLife Stadium),80663
+7,13-06-2026,Group Stage,Haiti,Scotland,0,1,,,0-1,Philadelphia Stadium (Lincoln Financial Field),64146
+8,13-06-2026,Group Stage,Australia,Türkiye,2,0,,,2-0,Seattle Stadium (Lumen Field),52497
+9,14-06-2026,Group Stage,Germany,Curaçao,7,1,,,"	7-1",Atlanta Stadium (Mercedes-Benz Stadium),68021
+10,14-06-2026,Group Stage,Netherlands,Japan,2,2,,,2-2,San Francisco Bay Area Stadium (Levi's Stadium),69285
+11,14-06-2026,Group Stage,Côte d'Ivoire,Ecuador,1,0,,,1-0,Houston Stadium (NRG Stadium),68274
+12,14-06-2026,Group Stage,Sweden,Tunisia,5,1,,,5-1,Kansas City Stadium (Arrowhead Stadium),50987
+13,15-06-2026,Group Stage,Spain,Cabo Verde,0,0,,,0-0,Miami Stadium (Hard Rock Stadium),67640
+14,15-06-2026,Group Stage,Belgium,Egypt,1,1,,,1-1,Dallas Stadium (AT&T Stadium),66775
+15,15-06-2026,Group Stage,Saudi Arabia,Uruguay,1,1,,,1-1,Monterrey Stadium (Estadio BBVA),62764
+16,15-06-2026,Group Stage,IR Iran,New Zealand,2,2,,,2-2,Vancouver Stadium (BC Place),70108
+17,16-06-2026,Group Stage,France,Senegal,3,1,,,"	3-1",New York New Jersey Stadium (MetLife Stadium),80545
+18,16-06-2026,Group Stage,Iraq,Norway,1,4,,,1-4,Boston Stadium (Gillette Stadium),63106
+19,16-06-2026,Group Stage,Argentina,Algeria,3,0,,,3-0,Los Angeles Stadium (SoFi Stadium),69045
+20,16-06-2026,Group Stage,Austria,Jordan,3,1,,,3-1,San Francisco Bay Area Stadium (Levi's Stadium),68527
+21,17-06-2026,Group Stage,Portugal,Congo DR,1,1,,,1-1,Atlanta Stadium (Mercedes-Benz Stadium),68777
+22,17-06-2026,Group Stage,England,Croatia,4,2,,,4-2,Miami Stadium (Hard Rock Stadium),70389
+23,17-06-2026,Group Stage,Ghana,Panama,1,0,,,1-0,Houston Stadium (NRG Stadium),42942
+24,17-06-2026,Group Stage,Uzbekistan,Colombia,1,3,,,1-3,Seattle Stadium (Lumen Field),80824
+25,18-06-2026,Group Stage,Mexico,South Korea,1,0,,,1-0,Atlanta Stadium (Mercedes-Benz Stadium),45522
+26,18-06-2026,Group Stage,Czechia,South Africa,1,1,,,1-1,Los Angeles Stadium (SoFi Stadium),67442
+27,18-06-2026,Group Stage,Canada,Qatar,6,0,,,6-0,Vancouver Stadium (BC Place),52497
+28,18-06-2026,Group Stage,Switzerland,Bosnia and Herzegovina,4,1,,,"	4-1",Mexico City Stadium (Estadio Azteca),70026
+29,19-06-2026,Group Stage,Brazil,Haiti,3,0,,,3-0,New York New Jersey Stadium (MetLife Stadium),68324
+30,19-06-2026,Group Stage,Scotland,Morocco,0,1,,,0-1,Dallas Stadium (AT&T Stadium),64146
+31,19-06-2026,Group Stage,USA,Australia,2,0,,,2-0,Toronto Stadium (BMO Field),66925
+32,19-06-2026,Group Stage,Türkiye,Paraguay,0,1,,,0-1,Monterrey Stadium (Estadio BBVA),68827
+33,20-06-2026,Group Stage,Germany,Côte d'Ivoire,2,1,,,2-1,Boston Stadium (Gillette Stadium),43036
+34,20-06-2026,Group Stage,Ecuador,Curaçao,0,0,,,0-0,Kansas City Stadium (Arrowhead Stadium),69045
+35,20-06-2026,Group Stage,Netherlands,Sweden,5,1,,,"	5-1",Philadelphia Stadium (Lincoln Financial Field),68777
+36,20-06-2026,Group Stage,Tunisia,Japan,0,4,,,0-4,Seattle Stadium (Lumen Field),51243
+37,21-06-2026,Group Stage,Belgium,IR Iran,0,0,,,0-0,Houston Stadium (NRG Stadium),70317
+38,21-06-2026,Group Stage,New Zealand,Egypt,1,3,,,1-3,Miami Stadium (Hard Rock Stadium),52497
+39,21-06-2026,Group Stage,Spain,Saudi Arabia,4,0,,,4-0,San Francisco Bay Area Stadium (Levi's Stadium),68239
+40,21-06-2026,Group Stage,Uruguay,Cabo Verde,2,2,,,2-2,New York New Jersey Stadium (MetLife Stadium),64003
+41,22-06-2026,Group Stage,France,Iraq,3,0,,,3-0,Dallas Stadium (AT&T Stadium),68324
+42,22-06-2026,Group Stage,Norway,Senegal,3,2,,,3-2,Toronto Stadium (BMO Field),80663
+43,22-06-2026,Group Stage,Argentina,Austria,2,0,,,2-0,Monterrey Stadium (Estadio BBVA),70469
+44,22-06-2026,Group Stage,Jordan,Algeria,1,2,,,1-2,Boston Stadium (Gillette Stadium),68371
+45,23-06-2026,Group Stage,Portugal,Uzbekistan,5,0,,,5-0,Kansas City Stadium (Arrowhead Stadium),68777
+46,23-06-2026,Group Stage,Colombia,Congo DR,1,0,,,1-0,Philadelphia Stadium (Lincoln Financial Field),45358
+47,23-06-2026,Group Stage,England,Ghana,0,0,,,0-0,Seattle Stadium (Lumen Field),63983
+48,23-06-2026,Group Stage,Panama,Croatia,0,1,,,0-1,Mexico City Stadium (Estadio Azteca),43036
+49,24-06-2026,Group Stage,Czechia,Mexico,0,3,,,0-3,Mexico City Stadium (Estadio Azteca),80824
+50,24-06-2026,Group Stage,South Africa,South Korea,1,0,,,1-0,Guadalajara Stadium (Estadio Akron),51243
+51,24-06-2026,Group Stage,Switzerland,Canada,2,1,,,"	2-1",Vancouver Stadium (BC Place),52497
+52,24-06-2026,Group Stage,Bosnia and Herzegovina,Qatar,3,1,,,3-1,Toronto Stadium (BMO Field),66925
+53,25-06-2026,Group Stage,Scotland,Brazil,0,3,,,0-3,New York New Jersey Stadium (MetLife Stadium),64478
+54,25-06-2026,Group Stage,Morocco,Haiti,4,2,,,4-2,Boston Stadium (Gillette Stadium),68239
+55,25-06-2026,Group Stage,Türkiye,USA,3,2,,,3-2,Los Angeles Stadium (SoFi Stadium),70492
+56,25-06-2026,Group Stage,Paraguay,Australia,0,0,,,0-0,San Francisco Bay Area Stadium (Levi's Stadium),68827
+57,26-06-2026,Group Stage,Ecuador,Germany,2,1,,,2-1,Atlanta Stadium (Mercedes-Benz Stadium),80663
+58,26-06-2026,Group Stage,Curaçao,Côte d'Ivoire,0,2,,,0-2,Houston Stadium (NRG Stadium),68324
+59,26-06-2026,Group Stage,Tunisia,Netherlands,1,3,,,1-3,Kansas City Stadium (Arrowhead Stadium),68391
+60,26-06-2026,Group Stage,Japan,Sweden,1,1,,,1-1,Seattle Stadium (Lumen Field),70137
+61,27-06-2026,Group Stage,New Zealand,Belgium,1,5,,,1-5,Dallas Stadium (AT&T Stadium),52497
+62,27-06-2026,Group Stage,Egypt,IR Iran,1,1,,,1-1,Monterrey Stadium (Estadio BBVA),66925
+63,27-06-2026,Group Stage,Uruguay,Spain,0,1,,,0-1,Miami Stadium (Hard Rock Stadium),45065
+64,27-06-2026,Group Stage,Cabo Verde,Saudi Arabia,0,0,,,0-0,Philadelphia Stadium (Lincoln Financial Field),68278
+65,26-06-2026,Group Stage,Norway,France,1,4,,,"	1-4",Boston Stadium (Gillette Stadium),64146
+66,26-06-2026,Group Stage,Senegal,Iraq,5,0,,,5-0,New York New Jersey Stadium (MetLife Stadium),43036
+67,27-06-2026,Group Stage,Jordan,Argentina,1,3,,,1-3,San Francisco Bay Area Stadium (Levi's Stadium),70649
+68,27-06-2026,Group Stage,Algeria,Austria,3,3,,,3-3,Los Angeles Stadium (SoFi Stadium),69045
+69,28-06-2026,Group Stage,Colombia,Portugal,0,0,,,0-0,Miami Stadium (Hard Rock Stadium),64478
+70,28-06-2026,Group Stage,Congo DR,Uzbekistan,3,1,,,3-1,Atlanta Stadium (Mercedes-Benz Stadium),68239
+71,28-06-2026,Group Stage,Panama,England,0,2,,,0-2,New York New Jersey Stadium (MetLife Stadium),80663
+72,28-06-2026,Group Stage,Croatia,Ghana,2,1,,,"	2-1",Philadelphia Stadium (Lincoln Financial Field),68324
+73,29-06-2026,Round of 32,South Africa,Canada,0,1,,,0-1,Los Angeles Stadium (SoFi Stadium),
+74,29-06-2026,Round of 32,Brazil,Japan,2,1,,,2-1,Houston Stadium (NRG Stadium),
+75,30-06-2026,Round of 32,Germany,Paraguay,1,1,3,4,1-1 (3-4 pens),Boston Stadium (Gillette Stadium),
+76,30-06-2026,Round of 32,Netherlands,Morocco,1,1,2,3,1-1 (2-3 pens),Monterrey Stadium (Estadio BBVA),
+77,30-06-2026,Round of 32,Côte d'Ivoire,Norway,1,2,,,1-2,Dallas Stadium (AT&T Stadium),
+78,01-07-2026,Round of 32,France,Sweden,3,0,,,3-0,New York New Jersey Stadium (MetLife Stadium),
+79,01-07-2026,Round of 32,Mexico,Ecuador,2,0,,,2-0,Mexico City Stadium (Estadio Azteca),
+80,01-07-2026,Round of 32,England,Congo DR,2,1,,,2-1,Atlanta Stadium (Mercedes-Benz Stadium),
+81,02-07-2026,Round of 32,Belgium,Senegal,3,2,,,"	3-2",Seattle Stadium (Lumen Field),
+82,02-07-2026,Round of 32,USA,Bosnia and Herzegovina,2,0,,,2-0,San Francisco Bay Area Stadium (Levi's Stadium),
+83,03-07-2026,Round of 32,Spain,Austria,3,0,,,3-0,Los Angeles Stadium (SoFi Stadium),
+84,03-07-2026,Round of 32,Portugal,Croatia,2,1,,,"	2-1",Toronto Stadium (BMO Field),
+85,03-07-2026,Round of 32,Switzerland,Algeria,2,0,,,2-0,Vancouver Stadium (BC Place),
+86,04-07-2026,Round of 32,Australia,Egypt,1,1,2,4,1-1 (2-4 pens),Dallas Stadium (AT&T Stadium),
+87,04-07-2026,Round of 32,Argentina,Cabo Verde,3,2,,,3-2,Miami Stadium (Hard Rock Stadium),
+88,04-07-2026,Round of 32,Colombia,Ghana,1,0,,,1-0,Kansas City Stadium (Arrowhead Stadium),
+89,04-07-2026,Round of 16,Paraguay,France,0,1,,,0-1,Philadelphia Stadium (Lincoln Financial Field),
+90,04-07-2026,Round of 16,Canada,Morocco,0,3,,,0-3,Houston Stadium (NRG Stadium),
+91,05-07-2026,Round of 16,Brazil,Norway,1,2,,,1-2,Dallas Stadium (AT&T Stadium),
+92,06-07-2026,Round of 16,Mexico,England,2,3,,,2-3,Mexico City Stadium (Estadio Azteca),
+93,06-07-2026,Round of 16,Portugal,Spain,0,1,,,0-1,Miami Stadium (Hard Rock Stadium),
+94,07-07-2026,Round of 16,USA,Belgium,1,4,,,"	1-4",San Francisco Bay Area Stadium (Levi's Stadium),
+95,07-07-2026,Round of 16,Argentina,Egypt,3,2,,,3-2,Kansas City Stadium (Arrowhead Stadium),
+96,07-07-2026,Round of 16,Switzerland,Colombia,0,0,4,3,0-0 (4-3 pens),Seattle Stadium (Lumen Field),
+97,09-07-2026,Quarter-finals,France,Morocco,2,0,,,2-0,Boston Stadium (Gillette Stadium),
+98,10-07-2026,Quarter-finals,Spain,Belgium,,,,,,Los Angeles Stadium (SoFi Stadium),
+99,11-07-2026,Quarter-finals,Norway,England,,,,,,Miami Stadium (Hard Rock Stadium),
+100,12-07-2026,Quarter-finals,Argentina,Switzerland,,,,,,Kansas City Stadium (Arrowhead Stadium),
+101,14-07-2026,Semi-finals,,,,,,,,Dallas Stadium (AT&T Stadium),
+102,15-07-2026,Semi-finals,,,,,,,,Atlanta Stadium (Mercedes-Benz Stadium),
+103,18-07-2026,Third-place match,,,,,,,,Miami Stadium (Hard Rock Stadium),
+104,19-07-2026,Final,,,,,,,,New York New Jersey Stadium (MetLife Stadium),
