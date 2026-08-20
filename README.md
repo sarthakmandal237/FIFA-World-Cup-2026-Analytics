@@ -291,7 +291,6 @@ The interactive dashboard includes:
 
 ## Tournament Overview
 
-> Replace the image below with your exported dashboard screenshot.
 
 ![Tournament Overview](images/overview_dashboard.png)
 
@@ -299,7 +298,6 @@ The interactive dashboard includes:
 
 ## Team Performance
 
-> Replace the image below with your exported dashboard screenshot.
 
 ![Team Performance](images/team_performance_dashboard.png)
 
